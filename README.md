@@ -22,7 +22,7 @@ The primary objective was to process a raw gene expression count matrix and iden
 
 | File Name | Description |
 | :--- | :--- |
-| `dge_data_simulator.py` | **Python Script:** Generates the input files (`.csv`) for the R analysis, demonstrating control over data structure. |
+| `dge_data_simulator.py` | **Python Script:** Generates the input files (`.csv`) for the R analysis. |
 | `dge_analysis.r` | **R Script:** Performs the core DESeq2 analysis, statistical filtering, and visualization. |
 | `mock_expression_counts.csv` | Input: Simulated raw count data (10,000 genes x 12 samples). |
 | `sample_metadata.csv` | Input: Labels assigning each sample to the 'Treated' or 'Control' group. |
