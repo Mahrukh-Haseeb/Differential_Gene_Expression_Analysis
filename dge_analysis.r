@@ -1,8 +1,5 @@
 # Differential Gene Expression Analysis using DESeq2
 
-
-
-
 if (!requireNamespace("BiocManager", quietly = TRUE))
   install.packages("BiocManager")
 
