@@ -13,8 +13,8 @@ This repository contains a full bioinformatics pipeline for identifying **Differ
 
 ---
 
-## Scientific Goal
-The primary objective was to process a raw gene expression count matrix and identify statistically significant biomarkers that are either up- or downregulated in the Treated condition. The analysis successfully identified a single significant gene based on the applied stringency thresholds.
+## Goal
+The primary objective was to process a raw gene expression count matrix and identify statistically significant biomarkers that are either up- or downregulated in the treated condition. The analysis successfully identified a single significant gene based on the applied stringency thresholds.
 
 ---
 
@@ -54,4 +54,4 @@ This project is designed to be run in two sequential steps.
 
 ## Final Result
 
-The volcano plot is the primary output, visually communicating the distribution of gene expression changes against statistical significance.
+The volcano plot is gnerated as the primary output that visually communicates the distribution of gene expression changes against statistical significance.
